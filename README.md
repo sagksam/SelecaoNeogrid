@@ -1,2 +1,4 @@
 # SelecaoNeogrid
-Projeto desenvolvido em java para o processo seletivo Neogrid
+
+# Execução
+1. Execute a classe Application dentro do pacote br.com.selecaoneogrid.application 
